@@ -2,7 +2,7 @@ class EncryptionSolution extends ConsoleProgram {
 
   /**
   * Encrypts a message based on user input
-  * @author:
+  * @author: E. Fabroa
   */
   
   public void run() {
