@@ -51,7 +51,9 @@ Enter the message to encrypt: Don't tell anyone
 Enter the shift amount: 5
 Here is your encrypted message: Its,y%yjqq%fs~tsj
 ```
- 
+
+#### Bonus
+Limit your shift value in your `encryptMessage` method such that an exception will be thrown if the shift is less than 1.
 
 
 
